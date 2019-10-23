@@ -64,7 +64,6 @@
         </style>
     </head>
     <body>
-
     <a href="{{route('hello.index')}}">Hello</a>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
